@@ -1,0 +1,13 @@
+{
+  "name": "SecureChat - End-to-end encrypted messaging",
+  "short_name": "SecureChat",
+  "description": "Secure, private messaging with end-to-end encryption",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1d4ed8",
+  "background_color": "#ffffff",
+  "categories": ["communication", "social"],
+  "icons": []
+}
